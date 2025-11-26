@@ -19,3 +19,13 @@ Full methodology, figures, and interpretations are documented in the accompanyin
 
 ## 📂 Repository Contents
 
+├── FTSE 100 Pairs Research.ipynb
+├── FTSE 100 Pairs Research Report.pdf
+├── figures/
+│     ├── Spread Over Time.png
+│     ├── Z-score Spread.png
+│     ├── Strategy Position.png
+│     ├── Cumulative PnL.png
+│     ├── Performance Metrics.png
+│     └── Cointegration Results.png
+└── README.md
