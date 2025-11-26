@@ -19,6 +19,7 @@ Full methodology, figures, and interpretations are documented in the accompanyin
 
 ## 📂 Repository Contents
 
+```
 ├── FTSE 100 Pairs Research.ipynb
 ├── FTSE 100 Pairs Research Report.pdf
 ├── figures/
@@ -29,3 +30,4 @@ Full methodology, figures, and interpretations are documented in the accompanyin
 │     ├── Performance Metrics.png
 │     └── Cointegration Results.png
 └── README.md
+```
